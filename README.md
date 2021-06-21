@@ -1,5 +1,6 @@
 # giveaways-example
 # giveaway bot made by hjgaming
+# you went help command dm me on discord 
 
 # setup
 ### create a file named `.env`
