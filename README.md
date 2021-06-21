@@ -1,5 +1,5 @@
 # giveaways-example
-Example for @Nuggies-bot NPM
+# giveaway bot made by hjgaming
 
 # setup
 ### create a file named `.env`
@@ -12,4 +12,4 @@ Example for @Nuggies-bot NPM
   node .
 ```
 
-# 🌟Star if you like the bot, join our [support server](https://discord.gg/Z4ebH8PXeA) for any kind of support!
+# 🌟Star if you like the bot, join our [support server](https://discord.gg/WqZ3RmavJ5) for any kind of support!
